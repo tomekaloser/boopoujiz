@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://izixeigha.bustdesign.eu/sitemap.xml
